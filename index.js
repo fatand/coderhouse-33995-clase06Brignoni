@@ -26,7 +26,6 @@ let producto3 = new Producto({
 });
 
 const catalogo = [producto1, producto2, producto3];
-const cantidadCatalogo = catalogo.length;
 
 /* const listado = [];
 
